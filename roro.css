@@ -8,12 +8,6 @@ font-family:verdana;
 color:green;
 text-transform:uppercase;
 }
-h1::before{
-
-content:url(smiley.gif);
-
-}
-
 p{
 
 font-family:Georgia;
